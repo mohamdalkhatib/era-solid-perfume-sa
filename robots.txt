@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mizohmam.github.io/era-solid-perfume-sa/sitemap.xml
+Sitemap: https://mohamdalkhatib.github.io/era-solid-perfume-sa/sitemap.xml
